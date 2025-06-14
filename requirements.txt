@@ -1,0 +1,10 @@
+langchain-core
+langchain-community
+langchain-openai
+openai
+faiss-cpu
+numpy
+pandas
+python-dotenv
+sentence-transformers==2.6.1   # gemma 아닌 embedding 용
+ollama                         # 로컬에서 쓸때!
